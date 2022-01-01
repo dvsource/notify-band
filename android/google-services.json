@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1035501748177",
+    "project_id": "notify-band",
+    "storage_bucket": "notify-band.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035501748177:android:07212932060fe01ca6eaf0",
+        "android_client_info": {
+          "package_name": "com.notifyband"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035501748177-6rppkk1cs5el8i0583e3pu9d1mltqmk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJUrHqwTRa86RYBKJ9G1-_-ym1WpRm0q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035501748177-6rppkk1cs5el8i0583e3pu9d1mltqmk1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
